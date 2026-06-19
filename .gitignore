@@ -1,1 +1,26 @@
+# Rust build artifacts
 /target
+
+# Cargo
+Cargo.lock
+
+# IDE
+.vscode/
+.idea/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+
+# Rust Analyzer
+.rust-analyzer/
+
+# OS
+.DS_Store
